@@ -1,15 +1,4 @@
 # Awiros: App-a-thon
-
-## Team Shamblet
-- [Ankush Singh](https://github.com/ankushKun)
-- [Savita Srivastava](https://github.com/Shambsri21)
-
-## Problem Statement
-
-Develop an Computer Vision enabled application to provide analytics of Library usage by students and also create a platform to promote healthy competition and collaborative studying
-
-[view presentation](./Shamblet.pdf)
-
 ## Tech Stack
 
 - **Ai/ML**: Python, OpenCV
